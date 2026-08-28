@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Rare Bundle Giveaway",
+  "description": "Mobile-first Free Fire rare bundle giveaway platform featuring limited gaming bundles, secure authentication flow, UID verification, and real-time claim status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
